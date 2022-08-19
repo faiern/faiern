@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faiern
-- 👀 I’m interested in Blockchain, DeFi and the security. 
-- 🌱 I’m currently learning Rust, smart contract security and economics.
-- 💞️ I’m looking to collaborate on everything Rust-related Blockchains
+- 👀 I’m interested in Blockchain & DeFi. 
+- 🌱 I’m currently learning Rust and economics.
+- 💞️ I’m looking to collaborate on everything "Rust-related" Blockchains
 - 📫 How to reach me ...
 - On Twitter : @blackbaguettebo
 
